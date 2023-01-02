@@ -1,2 +1,3 @@
-# tweet-album-api
-Tweet Album API
+# Tweet Album API
+
+Main repository is [SnowCait/tweet-album](https://github.com/SnowCait/tweet-album)
