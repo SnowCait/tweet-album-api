@@ -1,244 +1,260 @@
 {
   "data": [
     {
-      "id": "1609595018909745153",
-      "author_id": "194534641",
-      "text": "なんとなく動くようになった #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609595018909745153"
-      ]
+      ],
+      "id": "1609595018909745153",
+      "author_id": "194534641",
+      "text": "なんとなく動くようになった #TweetAlbumDev"
     },
     {
-      "id": "1609744793839742976",
-      "author_id": "194534641",
-      "text": "トークンのリフレッシュ難しい… #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609744793839742976"
-      ]
+      ],
+      "id": "1609744793839742976",
+      "author_id": "194534641",
+      "text": "トークンのリフレッシュ難しい… #TweetAlbumDev"
     },
     {
-      "id": "1609770886340698112",
-      "author_id": "194534641",
-      "text": "Serverless Framework - AWS Lambda Events - Kinesis &amp; DynamoDB Streams https://t.co/JjZUdLS8Mj \n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609770886340698112"
-      ]
+      ],
+      "id": "1609770886340698112",
+      "author_id": "194534641",
+      "text": "Serverless Framework - AWS Lambda Events - Kinesis &amp; DynamoDB Streams https://t.co/JjZUdLS8Mj \n#TweetAlbumDev"
     },
     {
-      "id": "1609787432203083776",
-      "author_id": "194534641",
-      "text": "serverless frameworkでDynamoDB streamsとトリガーの登録をする - Qiita https://t.co/K5zOs82hin \n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609787432203083776"
-      ]
+      ],
+      "id": "1609787432203083776",
+      "author_id": "194534641",
+      "text": "serverless frameworkでDynamoDB streamsとトリガーの登録をする - Qiita https://t.co/K5zOs82hin \n#TweetAlbumDev"
     },
     {
-      "id": "1609790215966855168",
-      "author_id": "194534641",
-      "text": "クライアントとサーバーの両方でリフレッシュするから同期を取ろうとするとめっちゃ複雑… #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609790215966855168"
-      ]
+      ],
+      "id": "1609790215966855168",
+      "author_id": "194534641",
+      "text": "クライアントとサーバーの両方でリフレッシュするから同期を取ろうとするとめっちゃ複雑… #TweetAlbumDev"
     },
     {
-      "id": "1609795248682852355",
-      "author_id": "194534641",
-      "text": "AWS SDK for JavaScript v3でDynamoDB JSONと通常のJSONの間でデータ構造の変換を行う ~ util-dynamodb ~ | DevelopersIO https://t.co/oAqXqncqko \n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609795248682852355"
-      ]
+      ],
+      "id": "1609795248682852355",
+      "author_id": "194534641",
+      "text": "AWS SDK for JavaScript v3でDynamoDB JSONと通常のJSONの間でデータ構造の変換を行う ~ util-dynamodb ~ | DevelopersIO https://t.co/oAqXqncqko \n#TweetAlbumDev"
     },
     {
-      "id": "1609796761689927680",
-      "author_id": "194534641",
-      "text": "Amazon DynamoDB で AWS Lambda を使用する - AWS Lambda https://t.co/GpKdieXC6h \n\n&gt;Lambda は、レコードの DynamoDB ストリームにあるシャードを 1 秒あたり 4 回の基本レートでポーリングします。\n負荷どうなってるのか気になってしまう\n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609796761689927680"
-      ]
+      ],
+      "id": "1609796761689927680",
+      "author_id": "194534641",
+      "text": "Amazon DynamoDB で AWS Lambda を使用する - AWS Lambda https://t.co/GpKdieXC6h \n\n&gt;Lambda は、レコードの DynamoDB ストリームにあるシャードを 1 秒あたり 4 回の基本レートでポーリングします。\n負荷どうなってるのか気になってしまう\n#TweetAlbumDev"
     },
     {
-      "id": "1609807903896240133",
-      "author_id": "194534641",
-      "text": "サーバーレスのテスト面倒くさい\n自動化する何かを考えねば…\n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609807903896240133"
-      ]
+      ],
+      "id": "1609807903896240133",
+      "author_id": "194534641",
+      "text": "サーバーレスのテスト面倒くさい\n自動化する何かを考えねば…\n#TweetAlbumDev"
     },
     {
-      "id": "1609808725015171072",
-      "author_id": "194534641",
-      "text": "Secrets Manager がネックなんよなぁ\nローカルで動かなさそう\n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609808725015171072"
-      ]
+      ],
+      "id": "1609808725015171072",
+      "author_id": "194534641",
+      "text": "Secrets Manager がネックなんよなぁ\nローカルで動かなさそう\n#TweetAlbumDev"
     },
     {
-      "id": "1609809758390988806",
-      "author_id": "194534641",
-      "text": "Function と DynamoDB は多分いける #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609809758390988806"
-      ]
+      ],
+      "id": "1609809758390988806",
+      "author_id": "194534641",
+      "text": "Function と DynamoDB は多分いける #TweetAlbumDev"
     },
     {
-      "id": "1609810668647231488",
-      "author_id": "194534641",
-      "text": "octokit/auth-app.js: GitHub App authentication for JavaScript https://t.co/DzEnx1ostd \n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609810668647231488"
-      ]
+      ],
+      "id": "1609810668647231488",
+      "author_id": "194534641",
+      "text": "octokit/auth-app.js: GitHub App authentication for JavaScript https://t.co/DzEnx1ostd \n#TweetAlbumDev"
     },
     {
-      "id": "1609822442725462016",
-      "author_id": "194534641",
-      "text": "octokit/octokit.js: The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno. https://t.co/6bBm7Ykplo \n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609822442725462016"
-      ]
+      ],
+      "id": "1609822442725462016",
+      "author_id": "194534641",
+      "text": "octokit/octokit.js: The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno. https://t.co/6bBm7Ykplo \n#TweetAlbumDev"
     },
     {
-      "id": "1609825128342491136",
-      "author_id": "194534641",
-      "text": "GitHubのGit Data APIでコミットを作成する - GeekFactory https://t.co/Gvg9eoCMHj \n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609825128342491136"
-      ]
+      ],
+      "id": "1609825128342491136",
+      "author_id": "194534641",
+      "text": "GitHubのGit Data APIでコミットを作成する - GeekFactory https://t.co/Gvg9eoCMHj \n#TweetAlbumDev"
     },
     {
-      "id": "1609827490318667776",
-      "author_id": "194534641",
-      "text": "Lambda がタイムアウトするようになってしまった #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609827490318667776"
-      ]
+      ],
+      "id": "1609827490318667776",
+      "author_id": "194534641",
+      "text": "Lambda がタイムアウトするようになってしまった #TweetAlbumDev"
     },
     {
-      "id": "1609827598779154434",
-      "author_id": "194534641",
-      "text": "デフォルト6秒しかないのね #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609827598779154434"
-      ]
+      ],
+      "id": "1609827598779154434",
+      "author_id": "194534641",
+      "text": "デフォルト6秒しかないのね #TweetAlbumDev"
     },
     {
-      "id": "1609836462627000322",
-      "author_id": "194534641",
-      "text": "Task timed out after 6.00 seconds エラーの解決方法 [Serverless Framework][AWS Lambda] | CodeNote https://t.co/pyBpOkS629 \n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609836462627000322"
-      ]
+      ],
+      "id": "1609836462627000322",
+      "author_id": "194534641",
+      "text": "Task timed out after 6.00 seconds エラーの解決方法 [Serverless Framework][AWS Lambda] | CodeNote https://t.co/pyBpOkS629 \n#TweetAlbumDev"
     },
     {
-      "id": "1609837436607291392",
-      "author_id": "194534641",
-      "text": "エラーハンドリングはそのうち考える #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609837436607291392"
-      ]
+      ],
+      "id": "1609837436607291392",
+      "author_id": "194534641",
+      "text": "エラーハンドリングはそのうち考える #TweetAlbumDev"
     },
     {
-      "id": "1609843014058520576",
-      "author_id": "194534641",
-      "text": "GitHub API でファイルを読み書きする｜いーちゃん https://t.co/HqdW6aCubm #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609843014058520576"
-      ]
+      ],
+      "id": "1609843014058520576",
+      "author_id": "194534641",
+      "text": "GitHub API でファイルを読み書きする｜いーちゃん https://t.co/HqdW6aCubm #TweetAlbumDev"
     },
     {
-      "id": "1609844179831775232",
-      "author_id": "194534641",
-      "text": "親ツリーを指定し忘れたらコード全消しされそうになった（それはそう） #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609844179831775232"
-      ]
+      ],
+      "id": "1609844179831775232",
+      "author_id": "194534641",
+      "text": "親ツリーを指定し忘れたらコード全消しされそうになった（それはそう） #TweetAlbumDev"
     },
     {
-      "id": "1609845277082652672",
-      "author_id": "194534641",
-      "text": "されてしまった。なぜ…？ #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609845277082652672"
-      ]
+      ],
+      "id": "1609845277082652672",
+      "author_id": "194534641",
+      "text": "されてしまった。なぜ…？ #TweetAlbumDev"
     },
     {
-      "id": "1609846207295426564",
-      "author_id": "194534641",
-      "text": "ユーザーと BOT でアイコンの形違うのね #TweetAlbumDev https://t.co/4NXDeNbqTn",
+      "edit_history_tweet_ids": [
+        "1609846207295426564"
+      ],
       "attachments": {
         "media_keys": [
           "3_1609846184499347457"
         ]
       },
-      "edit_history_tweet_ids": [
-        "1609846207295426564"
-      ]
+      "id": "1609846207295426564",
+      "author_id": "194534641",
+      "text": "ユーザーと BOT でアイコンの形違うのね #TweetAlbumDev https://t.co/4NXDeNbqTn"
     },
     {
-      "id": "1609846739393196032",
-      "author_id": "194534641",
-      "text": "更新できた\nGitHub Pages は静的 API のホストとしても便利ですね\nhttps://t.co/X9FQxxiomG\n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609846739393196032"
-      ]
+      ],
+      "id": "1609846739393196032",
+      "author_id": "194534641",
+      "text": "更新できた\nGitHub Pages は静的 API のホストとしても便利ですね\nhttps://t.co/X9FQxxiomG\n#TweetAlbumDev"
     },
     {
-      "id": "1609849231065632768",
-      "author_id": "194534641",
-      "text": "コードと混ざっちゃうから専用のリポジトリに分けた方がよかっただろうか #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609849231065632768"
-      ]
+      ],
+      "id": "1609849231065632768",
+      "author_id": "194534641",
+      "text": "コードと混ざっちゃうから専用のリポジトリに分けた方がよかっただろうか #TweetAlbumDev"
     },
     {
-      "id": "1609852964411412487",
-      "author_id": "194534641",
-      "text": "わけた #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609852964411412487"
-      ]
+      ],
+      "id": "1609852964411412487",
+      "author_id": "194534641",
+      "text": "わけた #TweetAlbumDev"
     },
     {
-      "id": "1609856895329923074",
-      "author_id": "194534641",
-      "text": "DynamoDB Streams はすぐ発火するときと少し時間かかるときがある？ #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609856895329923074"
-      ]
+      ],
+      "id": "1609856895329923074",
+      "author_id": "194534641",
+      "text": "DynamoDB Streams はすぐ発火するときと少し時間かかるときがある？ #TweetAlbumDev"
     },
     {
-      "id": "1609857180186054664",
-      "author_id": "194534641",
-      "text": "そんなことはないか #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609857180186054664"
-      ]
+      ],
+      "id": "1609857180186054664",
+      "author_id": "194534641",
+      "text": "そんなことはないか #TweetAlbumDev"
     },
     {
-      "id": "1609862755393339393",
-      "author_id": "194534641",
-      "text": "まだ UI 適当だけど自動で保存されたツイートを見れるようになった\nhttps://t.co/8afphpL0bL\n#TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609862755393339393"
-      ]
+      ],
+      "id": "1609862755393339393",
+      "author_id": "194534641",
+      "text": "まだ UI 適当だけど自動で保存されたツイートを見れるようになった\nhttps://t.co/8afphpL0bL\n#TweetAlbumDev"
     },
     {
-      "id": "1609863311914577920",
-      "author_id": "194534641",
-      "text": "今日たくさんつぶやいてたのは保存のテストをしてたからです #TweetAlbumDev",
       "edit_history_tweet_ids": [
         "1609863311914577920"
-      ]
+      ],
+      "id": "1609863311914577920",
+      "author_id": "194534641",
+      "text": "今日たくさんつぶやいてたのは保存のテストをしてたからです #TweetAlbumDev"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1610191111477420034"
+      ],
+      "id": "1610191111477420034",
+      "author_id": "194534641",
+      "text": "年末年始でリリースしたいなと思ってたけど全然無理でした #TweetAlbumDev"
+    },
+    {
+      "edit_history_tweet_ids": [
+        "1610191176048705536"
+      ],
+      "id": "1610191176048705536",
+      "author_id": "194534641",
+      "text": "フロントエンドむずかしー #TweetAlbumDev"
     }
   ],
   "includes": {
     "users": [
       {
-        "url": "https://t.co/nB3cx3Lxps",
+        "protected": false,
         "id": "194534641",
-        "name": "雪猫.yml",
         "username": "snow_cait",
         "profile_image_url": "https://pbs.twimg.com/profile_images/1596544054942371842/yYCwsXQD_normal.jpg",
-        "protected": false
+        "name": "雪猫.yml",
+        "url": "https://t.co/nB3cx3Lxps"
       }
     ],
     "media": [
