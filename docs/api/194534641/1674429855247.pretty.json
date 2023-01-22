@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "author_id": "194534641",
+      "text": "いい感じに煮詰まってきたかなぁと思ったけどまだまだやることあるな… #TweetAlbumDev",
+      "edit_history_tweet_ids": [
+        "1616765011111841792"
+      ],
+      "id": "1616765011111841792"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "protected": false,
+        "username": "snow_cait",
+        "name": "雪猫.yml",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596544054942371842/yYCwsXQD_normal.jpg",
+        "id": "194534641",
+        "url": "https://t.co/nB3cx3Lxps"
+      }
+    ]
+  }
+}
