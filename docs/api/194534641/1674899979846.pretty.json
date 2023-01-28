@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "1619228598782787586",
+      "text": "Vue の computed が一生反映されない",
+      "edit_history_tweet_ids": [
+        "1619228598782787586"
+      ],
+      "author_id": "194534641"
+    },
+    {
+      "id": "1619235736271876096",
+      "text": "タイトル変更もできないし Vue 結構微妙な気がしてきている",
+      "edit_history_tweet_ids": [
+        "1619235736271876096"
+      ],
+      "author_id": "194534641"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "protected": false,
+        "username": "snow_cait",
+        "id": "194534641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596544054942371842/yYCwsXQD_normal.jpg",
+        "name": "雪猫.yml",
+        "url": "https://t.co/nB3cx3Lxps"
+      }
+    ]
+  }
+}
